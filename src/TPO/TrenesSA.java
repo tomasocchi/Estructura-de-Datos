@@ -1,5 +1,6 @@
 package TPO;
 
+import Grafos.GrafoEtiq;
 import java.util.*;
 import lineales.dinamica.*;
 import TPO.*;

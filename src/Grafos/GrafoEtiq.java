@@ -5,6 +5,7 @@
  */
 package Grafos;
 
+import Grafos.NodoVert;
 import lineales.dinamica.Lista;
 import lineales.dinamica.Cola;
 import java.util.HashMap;

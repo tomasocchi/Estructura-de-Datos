@@ -5,6 +5,8 @@
  */
 package Grafos;
 
+import Grafos.NodoVert;
+
 /**
  *
  * @author Tomas

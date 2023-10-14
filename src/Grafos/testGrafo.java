@@ -6,7 +6,6 @@
 package Grafos;
 
 import TPO.Estacion;
-import Grafos.GrafoEtiq;
 import lineales.dinamica.Lista;
 import java.util.Scanner;
 
