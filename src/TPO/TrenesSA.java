@@ -1,9 +1,11 @@
-package TPO;
+//Trabajo final Estructura de Datos
+
+package tpo;
 
 import Grafos.GrafoEtiq;
 import java.util.*;
 import lineales.dinamica.*;
-import TPO.*;
+import tpo.*;
 import conjuntistas.dinamicas.DiccionarioAVL;
 import Grafos.*;
 import java.io.*;
