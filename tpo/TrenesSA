@@ -20,7 +20,7 @@ public class TrenesSA {
 
     static {
         try {
-            salida = new FileWriter("‪cargalog.txt");
+            salida = new FileWriter //(cargar con archivo txt)
         } catch (IOException e) {
             throw new RuntimeException();
         }
